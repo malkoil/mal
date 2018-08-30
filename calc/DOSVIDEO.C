@@ -36,7 +36,7 @@ void space(unsigned char x, unsigned char y, unsigned char color,char len)
 void string(unsigned char x,unsigned char y,unsigned char color, char *st)
 {
 	int i,j=0;
-	for (i=0;st[i]!=0x0;i++)
+	for (i=0;st[i]!=0x0;i++) 
 	{
 		scrn [(x+y*80)*2+j]=st[i];
 		scrn [(x+y*80)*2+1+j]=color;
