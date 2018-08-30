@@ -3,7 +3,7 @@ struct recXY     /*srtuktura koordinat ramku*/
 {
 	unsigned char x1,x2,y1,y2;
 };
-struct colorrec  /*struktura kolory teksta ta fona*/
+struct colorrec  /*struktura kolory teksta ta fona*/ 
 {
 	unsigned char coltext,colback;
 };
