@@ -34,7 +34,7 @@ void main() {
 	char key,kb[30],color,first[30],two[30],sum[60];
 	struct colorrec col;
 	struct colorrec colfon;
-	struct colorrec colcnop;
+	struct colorrec colcnop; 
 	struct recXY koord;
 	int koef,kn,i,j,numb,znak,kilk;
 	float f1,f2;
