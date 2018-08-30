@@ -3,7 +3,7 @@
 #include <dosvideo.h>
 
 
-#define ZLIWA	21
+#define ZLIWA	21 
 
 #define COLORFON_BACK   LIGHTCYAN
 #define COLORFON_TEXT   DARKGRAY
