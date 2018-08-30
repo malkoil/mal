@@ -1,0 +1,5 @@
+calc2.c - main file 
+calc2.bak - backup main file
+doscalc .prj .dsk - files of project
+dosvideo .c .h - libs for calc
+dosvideo.bak - backup of dosvideo.c
